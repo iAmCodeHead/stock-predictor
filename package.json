@@ -1,5 +1,6 @@
 {
-  
+  "name": "aistockpredictorapp",
+  "description": "A Simple application written in vanilla javascipt with cloudflare workers for connection with openai",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -7,12 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "live-server": "^1.2.2",
-    "openai": "^4.85.4",
     "vite": "latest"
   },
-  "devDependencies": {
-    "webpack": "^5.98.0",
-    "webpack-cli": "^6.0.1"
-  }
+  "devDependencies": {}
 }
